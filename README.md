@@ -1,27 +1,28 @@
-# ProjCloneBuzzfeed
+# 📄 GaBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+Projeto de um site clone do BuzzFeed com um teste relacionado a jogos, utilizando Angular na versão 17.1.1!
 
-## Development server
+## 📑 Conceitos aplicados:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Utilização do Angular CLI;
+- Diretivas e binds;
+- Componentização e estruturação de HTML dinâmico;
+- Lifecycle Hooks;
+- CSS responsivo;
+- Estruturação de pastas;
+- Padrões de commits;
 
-## Code scaffolding
+## 🛠 Ferramentas e linguagens:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Typescript;
+- HTML;
+- CSS;
+- Angular;
+- VSCode;
 
-## Build
+## 🖼 Preview:
+- Início:
+![image](https://github.com/GabrielBitral/angular-cl-buzzfeed/assets/77023882/67de5d99-c664-41db-b094-a2cd8e681532)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Resultado:
+![image](https://github.com/GabrielBitral/angular-cl-buzzfeed/assets/77023882/b19581c3-be10-44a1-ba11-1c5a1e5ead1b)

@@ -1,0 +1,50 @@
+{
+  "title": "Qual classe do LOL combina com você?",
+  "questions": [
+    {
+      "question": "Qual estilo de jogo você prefere?",
+      "options": [
+        {"id": 1, "alias": "A", "name": "Eliminar personagens rapidamente"},
+        {"id": 2, "alias": "B", "name": "Aguentar dano nas lutas"},
+        {"id": 3, "alias": "C", "name": "Dar dano ao longo da luta"}
+      ]
+    },
+    {
+      "question": "Como você gosta de abordar as lutas?",
+      "options": [
+        {"id": 3, "alias": "C", "name": "À distância"},
+        {"id": 1, "alias": "A", "name": "Furtivamente"},
+        {"id": 2, "alias": "B", "name": "Frontalmente"}
+      ]
+    },
+    {
+      "question": "Qual é a importância da sobrevivência para você?",
+      "options": [
+        {"id": 2, "alias": "B", "name": "Essencial"},
+        {"id": 1, "alias": "A", "name": "Menos importante"},
+        {"id": 3, "alias": "C", "name": "Moderadamente importante"}
+      ]
+    },
+    {
+      "question": "O que é mais atraente em um campeão para você?",
+      "options": [
+        {"id": 1, "alias": "A", "name": "Dano explosivo"},
+        {"id": 3, "alias": "C", "name": "Mobilidade"},
+        {"id": 2, "alias": "B", "name": "Durabilidade"}
+      ]
+    },
+    {
+      "question": "Qual é o seu papel preferido em uma equipe?",
+      "options": [
+        {"id": 3, "alias": "C", "name": "DPS (Dano por segundo)"},
+        {"id": 2, "alias": "B", "name": "Protetor"},
+        {"id": 1, "alias": "A", "name": "Eliminador"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você gosta de jogar como um Assassino!",
+    "B": "Você prefere jogar como um Tanque!",
+    "C": "Você curte jogar como um Atirador!"
+  }
+}

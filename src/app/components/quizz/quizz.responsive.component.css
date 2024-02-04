@@ -1,0 +1,33 @@
+@media screen and (max-width: 300px) {
+  .quizz__options {
+    gap: 10px;
+  }
+
+  .btn-option {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .quizz__logo img {
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .quizz__logo img {
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .quizz__logo img {
+    width: 40%;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .quizz__logo img {
+    width: 30%;
+  }
+}
